@@ -80,7 +80,7 @@ The goal of this task is to implement **Support Vector Machines (SVMs)** for bin
 ## 🚀 How to Run
 
 ```bash
-git clone <repo-link>
+git clone https://github.com/Chakresh7/Internship_Task7
 cd <repo>
 python svm_task.py
 ```
